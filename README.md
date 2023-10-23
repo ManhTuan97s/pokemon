@@ -1,5 +1,5 @@
 # Project pokemon
 
-#Run project
-yarn install
- yarn start
+# Run project
+ - yarn install
+ - yarn start
